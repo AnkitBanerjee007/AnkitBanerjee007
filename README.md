@@ -8,7 +8,7 @@ I am a recent undergrad from SRM Institute of Science and Technology and trying 
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [ankitbanerjee983@gmail.com](mailto:ankitbanerjee983@gmail.com)
-* 🧠  I'm learning REACT, NODEJs, Express, MongoDB
+* 🧠  I'm learning REACT, Java, Springboot, SQL, MongoDb.
 * 🤝  I'm open to collaborating on interesting projects.
 
 ### Skills
